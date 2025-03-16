@@ -114,8 +114,125 @@
 // Fibonacci(8)
 
 
-for (let index = 1; index <=5; index++) {
-    console.log("*");
+// function dym(Month,Year){
+//     if(Month === 1 || Year === 2024){
+//         console.log('31 DAYS'); 
+//     }
+//     else if(Month === 2 || Year === 2024){
+//         if(Year%4==0 && Year%100 !=0){
+//             console.log('29 DAYS');
+//         }
+//         else if(Year%400 ==0){
+//             console.log('29 DAYS');
+            
+//         }
+//         else{
+//             console.log('28 DAYS');
+//         }
+        
+//     }
+//     else if(Month === 3 || Year === 2024){
+//         console.log("31 DAYS");
+        
+//     }
+//     else if(Month === 4 || Year === 2024){
+//         console.log("30 DAYS");
+        
+//     }
+//     else if(Month === 5 || Year === 2024){
+//         console.log("31 DAYS");
+        
+//     }
+//     else if(Month === 6 || Year === 2024){
+//         console.log("30 DAYS");
+//     }
+//     else if(Month === 7 || Year === 2024){
+//         console.log("31 DAYS");
+//     }
+//     else if(Month === 8 || Year === 2024){
+//         console.log("31 DAYS");
+//     }
+//     else if(Month === 9 || Year === 2024){
+//         console.log("30 DAYS");
+//     }
+//     else if(Month === 10 || Year === 2024){
+//         console.log("31 DAYS");
+//     }
+//     else if(Month === 11 || Year === 2024){
+//         console.log("30 DAYS");
+//     }
+//     else if(Month === 12 || Year === 2024){
+//         console.log("31 DAYS");
+//     }
     
     
-}
+    
+// }
+
+// console.log(dym(4,2024));
+//  Q15
+// function dym(month,year){
+// switch(month) {
+//     case 1:
+//       console.log('31 DAYS'); 
+//       break;
+//     case 2:
+      
+//                 if(year%4==0 && year%100 !=0){
+//                     console.log('29 DAYS');
+//                 }
+//                 else if(year%400==0){
+//                     console.log('29 DAYS');
+                    
+//                 }
+//                 else{
+//                     console.log('28 DAYS');
+//                 }
+//       break;
+//     case 3:
+//       console.log("31 DAYS");
+//       break;
+//     case 4:
+//       console.log("30 DAYS");
+//       break;
+//     case 5:
+//       console.log("31 DAYS");
+//       break;
+//     case 6:
+//       console.log("30 DAYS");
+//       break;
+//     case 7:
+//       console.log("31 DAYS");
+//       break;
+     
+//     case 8:
+//       console.log("31 DAYS");
+//       break;
+//     case 9:
+//       console.log("30 DAYS");
+//       break;
+//     case 10:
+//       console.log("31 DAYS");
+//       break;
+//     case 11:
+//       console.log("30 DAYS");
+//       break;
+//     case 12:
+//       console.log("31 DAYS");
+//       break;
+     
+//   }
+// }
+
+// console.log(dym(2,2028));
+ 
+
+
+function 
+
+
+*           *
+**         **
+***       ***
+****     ****
+*****   *****
