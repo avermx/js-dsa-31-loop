@@ -227,25 +227,25 @@
 // console.log(dym(2,2028));
  
 
-
-function sumofdigit(num){
-    let sum = 0;
+// Q14
+// function sumofdigit(num){
+//     let sum = 0;
     
-    while(num>0){
-        if(num%2==0){
-            sum  = sum + num%10
-            num = Math.floor(num/10)
-        }
-        else{
-            num = Math.floor(num/10)
-        }
+//     while(num>0){
+//         if(num%2==0){
+//             sum  = sum + num%10
+//             num = Math.floor(num/10)
+//         }
+//         else{
+//             num = Math.floor(num/10)
+//         }
       
       
         
-    }
+//     }
     
-    return sum;
-}
+//     return sum;
+// }
 
-console.log(sumofdigit(2384));
+// console.log(sumofdigit(2384));
   
