@@ -249,3 +249,28 @@
 
 // console.log(sumofdigit(2384));
   
+// Q13
+// function HCFGCD(a,b){
+//     let tempa = a ;
+//     let tempb =b;
+// if ( b===0 ){
+//     return a;
+// }
+// while(b){
+//     let rem = a%b
+//     a = b 
+//     b = rem 
+// } 
+//     let tempo = tempa * tempb;
+
+//  return tempo / a 
+// }
+
+// console.log(HCFGCD(12,15));
+ 
+
+function LargestDigit(num){
+    
+   let cum = num % 10
+
+}
