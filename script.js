@@ -272,5 +272,5 @@
 function LargestDigit(num){
     
    let cum = num % 10
-
+fa
 }
