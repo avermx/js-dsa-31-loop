@@ -269,8 +269,27 @@
 // console.log(HCFGCD(12,15));
  
 
-function LargestDigit(num){
+// function LargestDigit(num){
+//     let sum = [];
+//     num.forEach(e => {
+//      let cum =  e % 10
+//      sum.push(cum)
+//      e = Math.floor(n/10)
+     
+//    });
+
     
-   let cum = num % 10
-fa
+// }
+
+// console.log(LargestDigit(5123));
+ 
+const arr = ["hello","sir"];
+
+
+for(let i = 1; i<arr.length;i++){
+  arr[i] = arr[i - 1]
 }
+  arr[1] = 'aniket'
+console.log(arr);
+
+
