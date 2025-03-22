@@ -283,13 +283,6 @@
 
 // console.log(LargestDigit(5123));
  
-const arr = ["hello","sir"];
 
-
-for(let i = 1; i<arr.length;i++){
-  arr[i] = arr[i - 1]
-}
-  arr[1] = 'aniket'
-console.log(arr);
 
 
